@@ -2,7 +2,6 @@
 <!-- <img align="right" src="" width="380" alt="Eman Fatima Developer"> -->
 </p>
 
-
 <div align="center">
 
 <!-- <img src="./assets/first_image.jpeg&font=roboto&text=Eman%20Fatima&fontColor=FF69B4&fontSize=70&height=85" alt="Eman Fatima" /> -->
