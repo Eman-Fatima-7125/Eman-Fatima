@@ -484,7 +484,7 @@ Keep Learning • Keep Building • Keep Growing 🚀
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&width=1000px&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&width=2000&section=footer"/>
 
 
 
