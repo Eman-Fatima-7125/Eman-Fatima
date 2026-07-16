@@ -35,160 +35,82 @@ I love turning ideas into functional applications by combining:
 - 🎨 Modern UI/UX principles
 - 📱 Mobile application development
 - 🚀 Problem-solving mindset
-
-
 <br>
-
-
 <ul>
-
 <li>
 🌱 Currently working as 
 <b> Intern at Eco Zindagi Pvt. Ltd.</b>
 </li>
-
 <br>
-
 <li>
 💻 Currently developing projects using 
 <b>React.js and Flutter</b>
 </li>
-
 <br>
-
 <li>
 🎨 Interested in creating beautiful and responsive interfaces
 </li>
-
 <br>
-
 <li>
 📱 Exploring Flutter app development and mobile technologies
 </li>
-
 <br>
-
 <li>
 🔐 Learning cybersecurity fundamentals
 </li>
-
 <br>
-
 <li>
 👩‍💻 All my projects are available at 
 <a href="https://github.com/Eman-Fatima-7125">
 <b>My GitHub</b>
 </a>
 </li>
-
 <br>
-
 <li>
 📫 Reach me at:
 <a href="mailto:emantariq197@gmail.com">
 <b>emantariq197@gmail.com</b>
 </a>
 </li>
-
 </ul>
-
-
 <br clear="all">
-
-
 <br>
 <a href="https://github.com/Eman-Fatima-7125">
-
- <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/> 
-
-</a>
-
+<img src="https://media.tenor.com/Z0m4O7Vv2dQAAAAi/divider-pink-flowers.gif" width="100%"/></a>
 <br>
-
-<!-- ================= STATS ================= -->
-
 
 <h3 align="center">
-
 📊 S T A T S
-
 </h3>
-
-
 <div align="center">
-
-
 <a href="https://github.com/Eman-Fatima-7125">
-
-
 <img src="https://img.shields.io/github/followers/Eman-Fatima-7125?logo=github&logoColor=FFFFFF&labelColor=FF69B4&color=E75480&style=for-the-badge">
-
-
 </a>
-
-
 <br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eman-Fatima-7125&theme=radical&hide_border=true&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" />
-
-
-
 <br><br>
 
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Eman-Fatima-7125&show_icons=true&theme=radical&hide_border=true&title_color=FF69B4&icon_color=FF69B4"/> -->
-
-
 </div>
-
-
-
 <br>
-
-
-
 <a href="https://github.com/Eman-Fatima-7125">
-
- <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/> 
-
+<img src="https://media.tenor.com/Z0m4O7Vv2dQAAAAi/divider-pink-flowers.gif" width="100%"/>
 </a>
 
 
 <h3 align="center">
-
 📈 G R A P H
-
 </h3>
-
-
-
 <div align="center">
-
-
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eman-Fatima-7125&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=FF69B4&line=FF69B4&point=FFFFFF"/> 
-
-
 </div>
-
-
-
 <br>
-
-
-
 <a href="https://github.com/Eman-Fatima-7125">
-
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/> 
-
+<img src="https://media.tenor.com/Z0m4O7Vv2dQAAAAi/divider-pink-flowers.gif" width="100%"/>
 </a>
 <br>
 <h3 align="center">
-
 🌸 R E P O S I T O R Y  A C T I V I T Y
-
 </h3>
-
-
-
 <div align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eman-Fatima-7125&theme=radical" width="100%"/> 
 <br><br>
@@ -202,64 +124,38 @@ I love turning ideas into functional applications by combining:
 <br><br>
 
 <a href="https://github.com/Eman-Fatima-7125">
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
-</a>
-
-
-<h3 align="center">
-
-💻 Tech Stack</h3>
-
+<img src="https://media.tenor.com/Z0m4O7Vv2dQAAAAi/divider-pink-flowers.gif" width="100%"/></a>
+<h3 align="center">💻 Tech Stack</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,tailwind,react,python,php,flutter,dart,vscode,git,github,firebase,supabase&theme=dark&perline=5" />
 </p>
-
 </div>
 
 <br>
 
 <a href="https://github.com/Eman-Fatima-7125">
-
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/> 
-
+<img src="https://media.tenor.com/Z0m4O7Vv2dQAAAAi/divider-pink-flowers.gif" width="100%"/></a>
 </a>
 <!-- ================= QUOTE ================= -->
 
-
-<h3 align="center">
-
-🌸 Q U O T E
-
-</h3>
+<h3 align="center">🌸 Q U O T E</h3>
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 <br><br>
-
-
 <h2>
-
 ✨ "Code with creativity. Learn with curiosity. Build with purpose." ✨
-
 </h2>
-
 </div>
 
 <br>
-
 <a href="https://github.com/Eman-Fatima-7125">
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+<img src="https://media.tenor.com/Z0m4O7Vv2dQAAAAi/divider-pink-flowers.gif" width="100%"/></a>
 </a>
 
 <!-- ================= SNAKE ================= -->
 
 
-<h3 align="center">
-
-🐍 C O N T R I B U T I O N  S N A K E
-
-</h3>
-
-
+<h3 align="center">🐍 C O N T R I B U T I O N  S N A K E</h3>
 
 <div align="center">
 
@@ -268,20 +164,12 @@ I love turning ideas into functional applications by combining:
 </div>
 
 <br>
-
 <a href="https://github.com/Eman-Fatima-7125">
-<img src="https://media.tenor.com/QMYLhCGzvzYAAAAi/pink-divider.gif" width="100%" height="2px"/>
+<img src="https://media.tenor.com/Z0m4O7Vv2dQAAAAi/divider-pink-flowers.gif" width="100%"/></a>
 </a>
- 
 
-<!-- ================= SOCIAL FOOTER ================= -->
-
-
-<h3 align="center">
-
-💕 L E T ' S  C O N N E C T
-
-</h3>
+ <!-- ================= SOCIAL FOOTER ================= -->
+<h3 align="center">💕 L E T ' S  C O N N E C T</h3>
 
 <div align="center">
 <a href="https://github.com/Eman-Fatima-7125">
