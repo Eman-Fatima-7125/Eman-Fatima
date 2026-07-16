@@ -416,7 +416,7 @@ Currently pursuing Computer Science with a passion for software development, app
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Eman-Fatima-7125/Eman-Fatima-7125/output/github-contribution-grid-snake-dark.svg"/>
-
+<img src="https://i.imgur.com/x1KbuCq.gif" width="1000"/> 
 </div>
 
 <br>
@@ -426,6 +426,7 @@ Currently pursuing Computer Science with a passion for software development, app
  <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/> 
 
 </a>
+ 
 
 <!-- ================= SOCIAL FOOTER ================= -->
 
@@ -463,7 +464,6 @@ Currently pursuing Computer Science with a passion for software development, app
 <!-- ================= FOOTER ================= -->
 <div align="center">
 
- <img src="https://i.imgur.com/x1KbuCq.gif" width="1000"/> 
 
 <h2>
 
