@@ -30,7 +30,7 @@ I am a **Computer Science student** passionate about building creative, responsi
 
 I love turning ideas into functional applications by combining:
 
-- 💻 Clean frontend development
+- 💻 Clean website development
 - 🎨 Modern UI/UX principles
 - 📱 Mobile application development
 - 🚀 Problem-solving mindset
@@ -43,7 +43,7 @@ I love turning ideas into functional applications by combining:
 
 <li>
 🌱 Currently working as 
-<b>Marketing Intern at Eco Zindagi Pvt. Ltd.</b>
+<b> Intern at Eco Zindagi Pvt. Ltd.</b>
 </li>
 
 <br>
