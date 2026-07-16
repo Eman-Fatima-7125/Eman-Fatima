@@ -463,7 +463,7 @@ Currently pursuing Computer Science with a passion for software development, app
 <!-- ================= FOOTER ================= -->
 <div align="center">
 
- <img src="https://i.imgur.com/x1KbuCq.gif" width="500"/> 
+ <img src="https://i.imgur.com/x1KbuCq.gif" width="1000"/> 
 
 <h2>
 
